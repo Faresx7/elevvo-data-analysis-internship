@@ -46,6 +46,6 @@ Technical Agility: Seamlessly switching between Python, SQL, and BI tools to mee
 
 ## 📫 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/fares-esaam-0b3491222)
-[Email Me](FaresEsaam001@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/fares-esaam-0b3491222)  
+[Email Me](FaresEsaam001@gmail.com)  
 [Portfolio](https://faresx7.github.io/Portfolio/)
