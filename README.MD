@@ -16,7 +16,7 @@ Tools & Libraries
 Visualization
 - seaborn
 
-**🏆 Final Achievements & Core Competencies**
+## **🏆 Final Achievements & Core Competencies**
 <!-- 
 During this internship, I successfully delivered high-impact analytical assets that solved real-world business problems. My key accomplishments include:
 
