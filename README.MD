@@ -1,46 +1,40 @@
-📊 Elevvo Data Analytics Internship Portfolio
+# 📊 Elevvo Data Analytics Internship Portfolio
 
-👋 Overview
+**👋 Overview**
 
-This repository documents the technical outcomes and analytical deliverables produced during my Data Analytics internship at Elevvo. The focus was on building end-to-end data pipelines, from raw ingestion to executive-level business intelligence.
+This repository documents the technical outcomes and analytical deliverables produced during my Data Analytics internship at **Elevvo**. The focus was on building end-to-end data pipelines, from raw ingestion to executive-level business intelligence.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 
-Domain
+**Data Analysis**
 
 Tools & Libraries
-
-Programming
-
-
-
-Databases
-
+- python (Pandas)
+- jupyter notebook
 
 
 Visualization
+- seaborn
 
-
-
-Business Tools
-
-
-
-🏆 Final Achievements & Core Competencies
-
+**🏆 Final Achievements & Core Competencies**
+<!-- 
 During this internship, I successfully delivered high-impact analytical assets that solved real-world business problems. My key accomplishments include:
 
-Data Engineering & Hygiene: Developed robust data cleaning protocols in Python and Excel, ensuring 100% data integrity for downstream analysis.
+Data Engineering & Hygiene: Developed robust data cleaning protocols in Python and Excel, ensuring 100% data integrity for downstream analysis. -->
 
-Strategic Business Insights: Implemented advanced segmentation (RFM) and time-series forecasting to identify growth opportunities and seasonal trends.
+(Task: Customer Segmentation (RFM Analysis))[https://github.com/Faresx7/elevvo-data-analysis-internship/tree/main/RFM%20analysis]
 
-Database Optimization: Engineered complex SQL queries to extract multi-dimensional insights from relational databases efficiently.
+**Final Achievement:** Categorized the customer base into distinct behavioral segments (e.g., Champions, At-Risk) by applying the Recency, Frequency, and Monetary (RFM) model using Python and Pandas.
+
+**Value Delivered:** Transformed transactional data into actionable marketing intelligence, enabling data-driven retention strategies and personalized customer targeting.
+
+<!-- Database Optimization: Engineered complex SQL queries to extract multi-dimensional insights from relational databases efficiently.
 
 Automation: Built automated web scrapers to gather real-time market intelligence, replacing manual data entry processes.
 
 Executive Reporting: Designed interactive Power BI and Excel dashboards that empowered stakeholders with self-service analytics and real-time KPI tracking.
 
-End-to-End Workflow: Executed a full-cycle e-commerce analysis project, translating raw datasets into a strategic executive roadmap.
+End-to-End Workflow: Executed a full-cycle e-commerce analysis project, translating raw datasets into a strategic executive roadmap. -->
 
 🚀 Key Takeaways
 
