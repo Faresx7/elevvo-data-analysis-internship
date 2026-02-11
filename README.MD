@@ -44,6 +44,8 @@ Analytical Rigor: Applying statistical methods to validate survival determinants
 
 Technical Agility: Seamlessly switching between Python, SQL, and BI tools to meet diverse project requirements.
 
-📫 Connect with me
+## 📫 Connect with me
 
-LinkedIn Profile | Email Me
+[LinkedIn](https://www.linkedin.com/in/fares-esaam-0b3491222)
+[Email Me](FaresEsaam001@gmail.com)
+[Portfolio](https://faresx7.github.io/Portfolio/)
