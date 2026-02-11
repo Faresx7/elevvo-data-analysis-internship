@@ -1,6 +1,6 @@
 # 📊 Elevvo Data Analytics Internship Portfolio
 
-**👋 Overview**
+## **👋 Overview**
 
 This repository documents the technical outcomes and analytical deliverables produced during my Data Analytics internship at **Elevvo**. The focus was on building end-to-end data pipelines, from raw ingestion to executive-level business intelligence.
 
@@ -8,12 +8,12 @@ This repository documents the technical outcomes and analytical deliverables pro
 
 **Data Analysis**
 
-Tools & Libraries
+**Tools & Libraries**
 - python (Pandas)
 - jupyter notebook
 
 
-Visualization
+**Visualization**
 - seaborn
 
 ## **🏆 Final Achievements & Core Competencies**
@@ -22,7 +22,7 @@ During this internship, I successfully delivered high-impact analytical assets t
 
 Data Engineering & Hygiene: Developed robust data cleaning protocols in Python and Excel, ensuring 100% data integrity for downstream analysis. -->
 
-## [Task: Customer Segmentation (RFM Analysis)](https://github.com/Faresx7/elevvo-data-analysis-internship/tree/main/RFM%20analysis)
+### [Task](https://github.com/Faresx7/elevvo-data-analysis-internship/tree/main/RFM%20analysis): Customer Segmentation (RFM Analysis)
 
 **Final Achievement:** Categorized the customer base into distinct behavioral segments (e.g., Champions, At-Risk) by applying the Recency, Frequency, and Monetary (RFM) model using Python and Pandas.
 
