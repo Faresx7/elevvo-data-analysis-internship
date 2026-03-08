@@ -2,7 +2,9 @@
 
 1. Executive Summary
 
-Following the RFM (Recency, Frequency, Monetary) analysis of 4,338 customers, we have identified distinct behavioral segments. The database shows a healthy core of loyalists, but a significant portion of the customer base (approx. 24%) is currently in a "Hibernating" state.
+Following the RFM (Recency, Frequency, Monetary) analysis of 4,338 customers, we have identified distinct behavioral segments. 
+The dataset shows a healthy core of loyalists,
+but a significant portion of the customer base (approx. 24%) is currently in a "Hibernating" state.
 
 2. Segment Analysis & Action Plan
 
